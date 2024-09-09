@@ -12,7 +12,7 @@ DockerMate is a comprehensive Docker management system that provides functionali
 
 ## Prerequisites
 
-- Java 11 or higher
+- Java 17 or higher
 - Maven
 - Docker
 - Spring Boot
